@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "multimorbidity"]
+	path = multimorbidity
+	url = https://github.com/wyattbensken/multimorbidity
+	shallow = true
+	registered = true
