@@ -8,3 +8,8 @@
 	url = https://github.com/wyattbensken/multimorbidity
 	shallow = true
 	registered = true
+[submodule "socialrisk"]
+	path = socialrisk
+	url = https://github.com/cran/socialrisk
+	shallow = true
+	registered = true
